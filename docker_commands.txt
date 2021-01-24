@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Tonton Jo - 2020
+# Join me on Youtube: https://www.youtube.com/c/TontonJo
+
+# Sources
+# https://github.com/containrrr/watchtower
+# https://containrrr.dev/watchtower/
+
