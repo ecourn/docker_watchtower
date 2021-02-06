@@ -37,7 +37,7 @@ docker run -d \
     --restart=unless-stopped \
     -e WATCHTOWER_SCHEDULE="0 0 4 * * *" \
     -e WATCHTOWER_CLEANUP="true" \
-    -e WATCHTOWER_LABEL_ENABLE="true"
+    -e WATCHTOWER_LABEL_ENABLE="true" \
     -e TZ="Europe/paris" \
     -v /var/run/docker.sock:/var/run/docker.sock \
     containrrr/watchtower
